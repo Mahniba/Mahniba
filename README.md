@@ -32,7 +32,7 @@ I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyternotebook/jupyternotebook-original.svg" height="40" alt="jupyternotebook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.png" height="40" alt="Jupyter Notebook logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
