@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Nhonwi Nba and I'm a Data scientist, from Cameroon</h2>
+<h2 align="left">Hi 👋! My name is Nhonwi Niba and I'm a Data scientist, from Cameroon</h2>
 
 ###
 
