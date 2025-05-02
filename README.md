@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">About me</h2>
-
+I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and technical writing. I'm currently building my skills in data analysis, Python, and cloud infrastructure while documenting my learning journey. I enjoy turning complex concepts into clear, accessible content and aim to contribute to open-source and educational projects.
 ###
 
 <h2 align="left">I code with</h2>
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyternotebook/jupyternotebook-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyternotebook/jupyternotebook-original.svg" height="40" alt="jupyternotebook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
