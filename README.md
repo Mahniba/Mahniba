@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">My name is Nhonwi  Niba and I'm a Data Engineer, from Cameroon</p>
+<p align="left">My name is Nhonwi  Niba and I'm a Data Engineer and Scientist, from Cameroon</p>
 
 ###
 
