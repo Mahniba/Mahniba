@@ -32,6 +32,9 @@ I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
   <img src = "https://github.com/devicons/devicon/tree/v2.16.0/icons/jupyter/jupyter-original-wordmark.png" height = "40" alt = "JupyterNotebook logo"/>
 </div>
 
