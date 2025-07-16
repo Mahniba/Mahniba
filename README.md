@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">About me</h2>
-I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and technical writing. I'm currently building my skills in data analysis, Python, and cloud infrastructure while documenting my learning journey. I enjoy turning complex concepts into clear, accessible content and aim to contribute to open-source and educational projects.
+I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and technical writing. I'm currently building my skills in data analysis, Python, and cloud infrastructure while documenting my learning journey. I enjoy turning complex concepts into clear, accessible content and aim to contribute to open-source and problem solving projects.
 
 <h2 align="left">I code with</h2>
 
@@ -34,8 +34,6 @@ I'm an aspiring data scientist with a keen interest in cloud computing (AWS) and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src = "https://github.com/devicons/devicon/tree/v2.16.0/icons/jupyter/jupyter-original-wordmark.png" height = "40" alt = "JupyterNotebook logo"/>
 </div>
 
 ###
